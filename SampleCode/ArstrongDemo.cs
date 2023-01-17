@@ -24,6 +24,7 @@ namespace SampleCode
                 Console.WriteLine();
             }
 
+            Console.WriteLine("End of program");
         }
     }
 }
